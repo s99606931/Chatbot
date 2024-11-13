@@ -119,3 +119,12 @@ git rm -r --cached .
 git add .
 git commit -m "gitignore 적용"
 ```
+
+
+# 1. Visual Studio Code (VSCode) 사용
+## VSCode 설치: Visual Studio Code를 설치합니다.
+# 2. Markdown Preview Mermaid Support 확장 설치:
+## VSCode의 확장(Extensions) 탭에서 "Markdown Preview Mermaid Support"를 검색하여 설치합니다.
+# 3. 미리보기 사용:
+## .md 파일을 열고, Ctrl + Shift + V (또는 Cmd + Shift + V on Mac)를 눌러 미리보기를 활성화합니다.
+Mermaid 그래프가 시각적으로 표시됩니다.
